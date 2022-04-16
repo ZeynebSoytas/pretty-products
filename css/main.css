@@ -79,3 +79,7 @@ ul li a {
   display: flex;
   align-items: center;
 }
+
+ul li a img {
+  margin-right: .25em;
+}
