@@ -57,3 +57,12 @@ ul {
   align-self: stretch;
   align-items: center;
 }
+
+ul li:first-child a {
+  text-decoration: none;
+  font-family: Oswald, sans-serif;
+  color: #fff;
+  background-color: #6f00e7;
+  border-radius: 3em;
+  padding: .5em 1.5em .7em;
+}
