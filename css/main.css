@@ -74,3 +74,8 @@ li:nth-child(2) {
 li:nth-child(3), li:nth-child(2) {
   padding: 0 .25em;
 }
+
+ul li a {
+  display: flex;
+  align-items: center;
+}
