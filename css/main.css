@@ -38,6 +38,8 @@ h2 {
   font-size: 2rem;
   font-weight: bold;
   margin: .25em;
+  margin-top: 0px;
+  margin-bottom: 0px;
 }
 
 p {
