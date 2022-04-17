@@ -27,7 +27,7 @@ article {
   justify-content: space-between;
 }
 
-article > .img {
+img source {
   max-width: 15em;
   margin-bottom: 1.5rem;
 }
