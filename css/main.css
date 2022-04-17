@@ -82,4 +82,6 @@ ul li a {
 
 ul li a img {
   margin-right: .25em;
+  max-width: 15em;
+  margin-bottom: 1.5rem;
 }
